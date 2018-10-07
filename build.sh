@@ -1,7 +1,7 @@
 KERNEL_DIR=$PWD
 ANYKERNEL_DIR=$KERNEL_DIR/AnyKernel2
 CCACHEDIR=../CCACHE/gemini
-TOOLCHAINDIR=~/toolchain/ubertc_aarch64-4.9
+TOOLCHAINDIR=~/toolchain/ubertc_aarch64-5.3
 DATE=$(date +"%Y%m%d")
 KERNEL_NAME="Nightmare"
 DEVICE="gemini"
